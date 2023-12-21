@@ -1,0 +1,33 @@
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: #fff;
+    margin-bottom: 10px;
+    /* flex: 1; */
+    /* flex-direction: column; */
+    cursor: pointer;
+  
+ 
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .card-info {
+    padding: 10px;
+  }
+
+  .card-info button {
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+    margin-top: 10px;
+  }

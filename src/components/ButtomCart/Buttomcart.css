@@ -1,0 +1,20 @@
+button {
+    border: 0;
+    padding: 4px;  
+    color: aliceblue; 
+    background-color: #2b3274;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.cart-status {
+    font-weight: bold;
+    background-color: crimson;
+    top: 10px;
+    right: 10px;
+    border-radius: 4px;
+    margin-left: 10px;
+    
+
+}

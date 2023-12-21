@@ -1,0 +1,13 @@
+.cart-item {
+    display: flex;
+    align-items: flex-start;
+    border-bottom: solid 1px #ddd;
+    padding-bottom: 10px;
+}
+
+.cart-item-product {
+    width: 80px;
+    background-color: grey;
+    border-radius: 4px;
+    margin-right: 8px;
+}
